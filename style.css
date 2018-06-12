@@ -1,0 +1,60 @@
+body{
+    margin: 0;
+}
+
+header{
+    background-image: url(background.png);
+    background-size: cover;
+    color: white;
+    border-top: 10px solid rgb(83, 198, 94);;
+    height: 510px;
+}
+.maozinha {
+    margin-left: 750px;
+    margin-top: -300px;
+}
+h1{
+    font-family: 'pacifico';
+    font-size:  46px;
+    position: relative;
+    letter-spacing: 2px;
+}
+
+span {
+    color: rgb(83, 198, 94);
+}
+
+.header {
+    font-family: 'Roboto', sans-serif;
+    width: 400px;
+    font-size: 22px;
+    line-height: 1.4;
+    margin-bottom: 18px;
+}
+
+
+.bolinha {
+    background-color: black;
+    opacity: 0.5;
+    border-radius: 100%;
+    width: 45px;
+    height: 45px;
+    align-items: center;
+    display: flex;
+    justify-content: center;
+    margin-right: 12px;
+}
+
+.bolinha:hover {
+    background-color: rgb(83, 198, 94);
+    opacity: 1;
+}
+.bolinha-pai {
+    display: flex;
+}
+
+.alinhar {
+    margin-left: 280px;
+    margin-top: 126px;
+    width: 400px;
+}
