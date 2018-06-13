@@ -104,4 +104,32 @@ span {
 
 .faixacinza {
     display: flex;
+    background-color: rgb(227, 227, 227);
+    padding: 50px 130px;
+}
+
+.tamanhoemail {
+    height: 30px;
+    width: 250px;
+    border-radius: 30deg;
+}
+
+.textosfaixacinza {
+    font-family: 'Roboto', sans-serif;
+    margin-right: 100px;
+
+}
+
+.faixabrancabaixo {
+    display: flex;
+    flex-direction: column;
+    align-content: center;
+    align-items: center;
+}
+
+.pessoas{
+    height: 50px;
+    width: 50px;
+    display: flex;
+    padding: 30px;
 }
